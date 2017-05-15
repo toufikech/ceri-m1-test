@@ -39,9 +39,5 @@
 	    <artifactId>selenium-java</artifactId>
 	    <version>3.4.0</version>
 	</dependency>
-	
-    <sourceDirectory>src/main/java</sourceDirectory>
-    <testSourceDirectory>src/test/java</testSourceDirectory>
-
-	</dependencies>
+</dependencies>
 </project>
