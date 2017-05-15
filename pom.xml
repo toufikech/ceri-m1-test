@@ -11,6 +11,7 @@
 		<sourceDirectory> 
 			${basedir}/src 
 		</sourceDirectory> 
+		<testSourceDirectory>src/test/java</testSourceDirectory>
 	</build>
 	<dependencies>
 		<dependency>
