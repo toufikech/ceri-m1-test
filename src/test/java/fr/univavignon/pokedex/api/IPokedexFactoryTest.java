@@ -13,7 +13,11 @@ import static org.junit.Assert.assertEquals;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * 
+ * @author toufik
+ *
+ */
 public class IPokedexFactoryTest {
     @Mock private IPokemonMetadataProvider iPokemonMetadataProvider;
     @Mock private IPokemonFactory iPokemonFactory;
